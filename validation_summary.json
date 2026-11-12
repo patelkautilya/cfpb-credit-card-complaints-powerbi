@@ -1,0 +1,194 @@
+{
+  "source": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/api/v1/",
+  "product": "Credit card",
+  "received_period": [
+    "2024-01-01",
+    "2025-12-31"
+  ],
+  "record_count": 165967,
+  "unique_complaint_ids": 165967,
+  "year_counts": {
+    "2024": 75989,
+    "2025": 89978
+  },
+  "timely_counts": {
+    "Yes": 165484,
+    "No": 483
+  },
+  "top_issues": [
+    [
+      "Problem with a purchase shown on your statement",
+      34405
+    ],
+    [
+      "Incorrect information on your report",
+      26996
+    ],
+    [
+      "Getting a credit card",
+      20488
+    ],
+    [
+      "Problem with a company's investigation into an existing problem",
+      20037
+    ],
+    [
+      "Other features, terms, or problems",
+      15185
+    ],
+    [
+      "Fees or interest",
+      14179
+    ],
+    [
+      "Closing your account",
+      10497
+    ],
+    [
+      "Problem when making payments",
+      8743
+    ],
+    [
+      "Advertising and marketing, including promotional offers",
+      5871
+    ],
+    [
+      "Trouble using your card",
+      5335
+    ],
+    [
+      "Struggling to pay your bill",
+      2065
+    ],
+    [
+      "Improper use of your report",
+      1563
+    ]
+  ],
+  "monthly_checks": [
+    {
+      "month": "2024-01",
+      "records": 5247,
+      "source_csv_sha256": "a701ba0dd4ef5ab4667edab2d1f2e2c45478364e7df1f56b275ba082c1c5f0d2"
+    },
+    {
+      "month": "2024-02",
+      "records": 5182,
+      "source_csv_sha256": "a19a02c1fcfdcf7c718bc2127e10858e87daa06cf38c2432d8bacd0efc676c29"
+    },
+    {
+      "month": "2024-03",
+      "records": 5889,
+      "source_csv_sha256": "b666208dd706b15d41070bf83c788cdb0769ba6ccfd0f5573d1d65df015349a7"
+    },
+    {
+      "month": "2024-04",
+      "records": 6676,
+      "source_csv_sha256": "ab68c0df5b562431486ab26c1aed33c374468a2899c260b2ad1e810e703d8133"
+    },
+    {
+      "month": "2024-05",
+      "records": 6760,
+      "source_csv_sha256": "8d58d6efb7831ea376361ec6bb7c4346a1e3e4c11c2d5a77cad31ff866c25934"
+    },
+    {
+      "month": "2024-06",
+      "records": 5535,
+      "source_csv_sha256": "e3e41b99e3f2572848b9e7045040a7a077066fcb9e5445cab24ef7d087cde565"
+    },
+    {
+      "month": "2024-07",
+      "records": 6192,
+      "source_csv_sha256": "873dd0fc878de7790030f96d24006c5f45968cd4d1e976051e84cf15fac2ec55"
+    },
+    {
+      "month": "2024-08",
+      "records": 7355,
+      "source_csv_sha256": "becd7327ea3e20fd535e237c362235579373afd3d2eb3be78e8f9f3db68731e3"
+    },
+    {
+      "month": "2024-09",
+      "records": 7185,
+      "source_csv_sha256": "5747a7e7be381aa8dd4a5b09b13eb3d4bf747755edfed61b71b4e02fe6c03551"
+    },
+    {
+      "month": "2024-10",
+      "records": 7176,
+      "source_csv_sha256": "b18c9bd00761b727d0bcddc8fb7eb860d11708b999b421167f8361cac6e7eb8f"
+    },
+    {
+      "month": "2024-11",
+      "records": 6095,
+      "source_csv_sha256": "2d11b6a352455442b7a427a0b397f642ec5d9a64f160be120fcda4eb1c5d5790"
+    },
+    {
+      "month": "2024-12",
+      "records": 6697,
+      "source_csv_sha256": "872de665626d693f1fea59f4ecd5fa46eff47c2a4a37049e0bb2ac58a518f413"
+    },
+    {
+      "month": "2025-01",
+      "records": 9073,
+      "source_csv_sha256": "3d0eaf7ee24092cb2916179bf96c8180387fc73ab03c7f7eda2fa3160fe2ed53"
+    },
+    {
+      "month": "2025-02",
+      "records": 6213,
+      "source_csv_sha256": "80a022951d02e6600d0c18c8ff9bcbfa485d8eb9358d01f66f3c00df612ef353"
+    },
+    {
+      "month": "2025-03",
+      "records": 6255,
+      "source_csv_sha256": "438fb1aba2b1aeeea190fe7581c7cf23e188aa0510be260a0d0598155a1e1f08"
+    },
+    {
+      "month": "2025-04",
+      "records": 6897,
+      "source_csv_sha256": "2bb26106af46371142c7d0ccfb8953ad099cb8313e5c1191b0c13e24fd150131"
+    },
+    {
+      "month": "2025-05",
+      "records": 7515,
+      "source_csv_sha256": "fa6f94834ac7dbf5066ee3cb89f6bc875db42a86cad15a18e715e46d223fae95"
+    },
+    {
+      "month": "2025-06",
+      "records": 7364,
+      "source_csv_sha256": "d749ca5e4b4a9470e94ee5d29585ba2ee010f27015529754f73ab9a2b0d7a541"
+    },
+    {
+      "month": "2025-07",
+      "records": 8105,
+      "source_csv_sha256": "f43feac30c72190b3335579fb007f72a1a11b28d4e6804fcaaa2b06d96833877"
+    },
+    {
+      "month": "2025-08",
+      "records": 7919,
+      "source_csv_sha256": "a7a7f9c794309f8b0f546db5a614a5e7999b1b2cb79bd709aadb78f9a264004c"
+    },
+    {
+      "month": "2025-09",
+      "records": 8504,
+      "source_csv_sha256": "53874e744063e03bd57271258ce89b9470fa272ff46fbb9f289fad13072ab892"
+    },
+    {
+      "month": "2025-10",
+      "records": 7413,
+      "source_csv_sha256": "2361cce1737a358bb4a7ecdf6ee5b5730891d27abeb9d7fc411cabe4b2e6559e"
+    },
+    {
+      "month": "2025-11",
+      "records": 6861,
+      "source_csv_sha256": "461070d81227ba88744e1e7b2109e38dfef4d50e4b7970f8dc47b190868faddb"
+    },
+    {
+      "month": "2025-12",
+      "records": 7859,
+      "source_csv_sha256": "0535fddf510cd1c4837d72e9b5bac640471a18f472eb4fe523fb0785f9561e72"
+    }
+  ],
+  "curated_csv_sha256": "2fd5683699738177adf0b165cd0dc5741a725c8ef80d735eadc6a9328524cb4d",
+  "dashboard_rows": 23489,
+  "dashboard_count_sum": 165967,
+  "dashboard_csv_sha256": "52809cdec5f51267bb8612bd0d5a4d4770c5dd66e48340e00dd7de03d4ae6973"
+}
